@@ -26,17 +26,11 @@ header a {
     display: flex;
     gap: 20px;
     font-size: 20px;
-img{
-    width: 370px;
-        height: 500px; 
-    }
-}
-
     img {
         width: 350px;
         height: 500px;
     }
-
+}
 
 .we {
     margin-top: 20px;
